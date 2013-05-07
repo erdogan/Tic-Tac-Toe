@@ -1,11 +1,10 @@
-Tic-Tac-Toe
-===
-
 A Tic-Tac-Toe implementation using Javascript 
 
 To do:  
 - Improve object model
-- Improve AI strategy for the computer
+- Improve AI strategy
 - Clean up the code
 
-By <a href='http://twitter.com/erdogan'>Engin Erdogan</a>, May 2, 2013
+---
+
+<a href='http://twitter.com/erdogan'>Engin Erdogan</a>, May 2013
